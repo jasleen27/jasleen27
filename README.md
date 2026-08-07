@@ -44,13 +44,13 @@ Reverse-engineered legacy **ORMB enterprise systems**, worked with 5+ stakeholde
 
 ## Open Source
 
-### [`aegis-harness`](https://github.com/JasleenSingh/aegis-harness)
+### [`aegis-harness`](https://github.com/jasleen27/aegis-harness)
 
 Production-oriented **agent evaluation and deterministic regression testing framework** for multi-agent and tool-calling systems.
 
 `Python` · `Pydantic v2` · `OpenTelemetry` · `Pytest` · `Rich`
 
-### [`nexus-mcp`](https://github.com/JasleenSingh/nexus-mcp)
+### [`nexus-mcp`](https://github.com/jasleen27/nexus-mcp)
 
 Enterprise **multi-tenant MCP gateway and document intelligence platform** with hybrid retrieval and service-oriented architecture.
 
@@ -74,4 +74,4 @@ Enterprise **multi-tenant MCP gateway and document intelligence platform** with 
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/jasleensingh) · [Email](mailto:singh.jasleen2027@gmail.com) · Pune, India
+[LinkedIn](https://www.linkedin.com/in/jasleen-singh27) · [Email](mailto:jassay2711@gmail.com) · Pune, India
