@@ -4,6 +4,25 @@
 
 <h3 align="center">agents that don't hallucinate on my watch</h3>
 
+<div align="center">
+
+```bash
+$ ssh jasleen@production
+Connecting... authenticated.
+
+$ system --boot
+[ OK ] agentic infra initialized
+[ OK ] eval harness armed
+[ OK ] hallucination guardrails: active
+[WARN] coffee levels: critical
+
+$ aegis whoami
+  Jasleen Singh — AI Systems Engineer
+  Building agentic infra where "it hallucinated again" isn't an acceptable answer
+```
+
+</div>
+
 
 # Hi, I'm Jasleen 👋
 
