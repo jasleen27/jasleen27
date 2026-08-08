@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&center=true&vCenter=true&width=600&height=45&size=22&pause=1200&duration=3200&color=58A6FF&lines=AI+Systems+Engineer+%7C+Ambiguity+to+Production;Building+agentic+platforms%2C+MCP+servers+%26+eval+harnesses;1%2C100%2B+users+%7C+92%25+Text-to-SQL+accuracy+%7C+250%2B+OSS+adopters;I+don't+ship+what+I+can't+measure" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=180&section=header&text=Jasleen%20Singh&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20%7C%20Ambiguity%20to%20Production&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
 # Hi, I'm Jasleen 👋
