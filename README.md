@@ -42,7 +42,7 @@ My first project at work had zero spec — just "go figure out where AI can help
 
 | Project | What it does |
 |---|---|
-| [`aegis-harness`](https://github.com/jasleen27/aegis-harness) | Deterministic evaluation & regression testing for LLM agents — trajectory assertions, mock tool sandbox, pytest + CLI integration |
+| [`aegis-harness`](https://github.com/jasleen27/aegis-harness) | Deterministic evaluation & regression testing for LLM agents — trajectory assertions, tool sandbox, pytest + CLI integration |
 | [`nexus-mcp`](https://github.com/jasleen27/nexus-mcp) | Multi-tenant MCP gateway with hybrid retrieval for enterprise document intelligence |
 
 ---
