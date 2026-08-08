@@ -2,6 +2,30 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=180&section=header&text=Jasleen%20Singh&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20%7C%20Ambiguity%20to%20Production&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
+
+<div align="center">
+
+```bash
+$ aegis whoami
+
+  Jasleen Singh — AI Systems Engineer
+  Building agentic infra where "it hallucinated again" isn't an acceptable answer
+
+$ aegis status --production
+
+  🚀 Systems shipped: JADE AI, Text-to-SQL Agent, MCP Server (250+ adopters)
+  📊 Track record:    92% agent accuracy · 1,100+ users · 24hr → 2min response
+  ⏱️  Currently:        ambiguity → architecture → production, repeat
+
+$ aegis eval --self
+
+  Evaluation Status: PASS
+  🎯 Score: still learning, still shipping
+```
+
+</div>
+
+
 # Hi, I'm Jasleen 👋
 
 **AI Systems Engineer** — I take ambiguous, undocumented problems and ship production AI systems: agentic platforms, retrieval infrastructure, and the eval/observability layers that make them trustworthy.
