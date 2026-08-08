@@ -1,77 +1,50 @@
-# Jasleen-Singh
+# Hi, I'm Jasleen 👋
 
-**Forward Deployed AI Engineer · Distributed Systems · Production AI**
+**AI Systems Engineer** — I take ambiguous, undocumented problems and ship production AI systems: agentic platforms, retrieval infrastructure, and the eval/observability layers that make them trustworthy.
 
-I build production AI systems at the intersection of **agentic AI, distributed systems, and enterprise software** — taking ambiguous problems from discovery and system understanding through architecture, implementation, deployment, and operational ownership.
-
-I focus on building systems that are **useful, measurable, reliable, and production-ready**.
+I care less about demos and more about what breaks at 2am — and how fast I can find out why.
 
 ---
 
-## What I Build
+## What I actually do
 
-- **Agentic AI Systems** — LangGraph, MCP, multi-agent workflows, Text-to-SQL, RAG, DSPy, HITL, evaluation
-- **Distributed Systems** — Python, FastAPI, Kafka, asynchronous processing, microservices, event-driven architectures
-- **Cloud & Platform Engineering** — AWS EKS, Kubernetes, Docker, Helm, ArgoCD, GitOps, CI/CD
-- **Data & Observability** — PostgreSQL, Oracle, vector search, BM25, Prometheus, Grafana, AI telemetry
-- **Engineering Delivery** — System discovery, stakeholder alignment, reverse-engineering, architecture, production delivery, SRE ownership
+- **0 → 1 AI systems**: stakeholder discovery → architecture → build → deploy → eval → iterate, owned end-to-end
+- **Agentic infrastructure**: LangGraph multi-agent systems, MCP servers, tool-calling harnesses, retrieval pipelines (RAG, Text-to-SQL, hybrid search)
+- **Production reliability**: distributed systems on Kubernetes, GitOps, observability (Prometheus/Grafana/OTel) — the boring infra that makes AI systems trustworthy, not just demoable
+- **Evaluation & trust**: deterministic agent testing, regression harnesses, precision/recall/F1 pipelines — I don't ship what I can't measure
+
+---
+
+## 🔭 Currently working on
+**`aegis-harness`** — a deterministic eval + regression testing engine for LLM agents (because 95% of agent projects fail from non-deterministic behavior nobody caught in CI)
+
+## 🌱 Currently learning
+Deeper agent-orchestration patterns at scale — multi-region deployment, cost-aware model routing beyond single-cluster setups
+
+## 🤝 Looking to collaborate on
+Open-source agent tooling, eval frameworks, or MCP ecosystem projects — if you're building developer tools for the agent era, I want to talk
+
+## 💬 Ask me about
+Taking a system from "nobody knows the answer" to production in days, not months — or why your agent's non-determinism is a testing problem, not a prompt problem
+
+## ⚡ Fun fact
+My first project at work had zero spec — just "go figure out where AI can help." I wrote the spec myself, got it validated, then built it. That's still how I like to work.
 
 ---
 
-## Production Impact
+## Selected Production Work
 
-### Multi-Agent Text-to-SQL · 92% Accuracy
-
-Designed and shipped a multi-agent system over a **200+ table Oracle database**, combining intent parsing, schema retrieval, query generation, execution validation, retry-based self-correction, and human-in-the-loop escalation.
-
-### JADE AI Platform · 1,100+ Employees
-
-Architected a **multi-tenant LangGraph platform** automating approximately **85% of recurring HR operations** across 7 countries, reducing response times from **24 hours to under 2 minutes**.
-
-### Banking Contract Intelligence
-
-Built a **Kafka-based streaming document intelligence pipeline** processing thousands of commercial agreements, reducing manual processing from **3 days to under 10 minutes**.
-
-### Enterprise AI Observability
-
-Designed ETL pipelines consolidating **token consumption, p95/p99 latency, model cost, and user feedback** into PostgreSQL and Grafana for operational monitoring and optimization.
-
-### Enterprise AI Discovery & Delivery
-
-Reverse-engineered legacy **ORMB enterprise systems**, worked with 5+ stakeholders to identify AI opportunities, and translated ambiguous business requirements into **3 production AI initiatives**.
-
----
+- **JADE AI** — multi-tenant LangGraph platform, 1,100+ users across 7 countries, 24hr→2min response time
+- **Text-to-SQL Agent** — 92% accuracy over a 200-table Oracle DB, self-correcting via retry loops
+- **Open-source MCP server** — published to the Anthropic ecosystem, adopted 250+ times by external developers
 
 ## Open Source
 
-### [`aegis-harness`](https://github.com/jasleen27/aegis-harness)
-
-Production-oriented **agent evaluation and deterministic regression testing framework** for multi-agent and tool-calling systems.
-
-`Python` · `Pydantic v2` · `OpenTelemetry` · `Pytest` · `Rich`
-
-### [`nexus-mcp`](https://github.com/jasleen27/nexus-mcp)
-
-Enterprise **multi-tenant MCP gateway and document intelligence platform** with hybrid retrieval and service-oriented architecture.
-
-`FastAPI` · `MCP` · `Hybrid RAG` · `Redis` · `Docker`
+| Project | What it does |
+|---|---|
+| [`aegis-harness`](https://github.com/jasleen27/aegis-harness) | Deterministic evaluation & regression testing for LLM agents — trajectory assertions, mock tool sandbox, pytest + CLI integration |
+| [`nexus-mcp`](https://github.com/jasleen27/nexus-mcp) | Multi-tenant MCP gateway with hybrid retrieval for enterprise document intelligence |
 
 ---
 
-## Certifications
-
-- **McKinsey Forward Program**
-- **Oracle OCI Generative AI Professional**
-- **Hugging Face AI Agents Professional**
-
----
-
-## Currently Interested In
-
-**Agentic AI · AI Infrastructure · Developer Tools · Distributed Systems · AI Evaluation · MCP · Production AI Platforms**
-
----
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/jasleen-singh27) · [Email](mailto:jassay2711@gmail.com) · Pune, India
+📫 **Let's talk**: [LinkedIn](https://www.linkedin.com/in/jasleen-singh27) · jassay2711@gmail.com · Pune, India
