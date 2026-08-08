@@ -1,18 +1,10 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=180&section=header&text=Jasleen%20Singh&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20%7C%20Ambiguity%20to%20Production&descAlignY=58&descSize=18" width="100%"/>
-</p>
-
-<h3 align="center">agents that don't hallucinate on my watch</h3>
-
 <h1 align="center">Jasleen Singh</h1>
 <p align="center"><i>agents that don't hallucinate on my watch</i></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&center=true&vCenter=true&width=500&height=40&size=18&pause=1200&duration=3200&color=58A6FF&lines=AI+Systems+Engineer;Ambiguity+to+Production" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
 </p>
 
-
-# Hi, I'm Jasleen 👋
 
 **AI Systems Engineer** — I take ambiguous, undocumented problems and ship production AI systems: agentic platforms, retrieval infrastructure, and the eval/observability layers that make them trustworthy.
 
@@ -38,17 +30,8 @@ Deeper agent-orchestration patterns at scale — multi-region deployment, cost-a
 ## 🤝 Looking to collaborate on
 Open-source agent tooling, eval frameworks, or MCP ecosystem projects — if you're building developer tools for the agent era, I want to talk
 
-## 💬 Ask me about
-Taking a system from "nobody knows the answer" to production in days, not months — or why your agent's non-determinism is a testing problem, not a prompt problem
-
-## ⚡ Fun fact
-My first project at work had zero spec — just "go figure out where AI can help." I wrote the spec myself, got it validated, then built it. That's still how I like to work.
-
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
-</p>
 
 ## Open Source
 
