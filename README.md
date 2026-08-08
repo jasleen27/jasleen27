@@ -2,7 +2,7 @@
 <p align="center"><i>agents that don't hallucinate on my watch</i></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/GB0XWhoCDNNAW8M9vv/giphy.gif" width="300"/>
 </p>
 
 
