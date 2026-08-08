@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&center=true&vCenter=true&width=600&height=45&size=22&pause=1200&duration=3200&color=58A6FF&lines=AI+Systems+Engineer+%7C+Ambiguity+to+Production;Building+agentic+platforms%2C+MCP+servers+%26+eval+harnesses;1%2C100%2B+users+%7C+92%25+Text-to-SQL+accuracy+%7C+250%2B+OSS+adopters;I+don't+ship+what+I+can't+measure" alt="Typing SVG" />
+  </a>
+</p>
+
 # Hi, I'm Jasleen 👋
 
 **AI Systems Engineer** — I take ambiguous, undocumented problems and ship production AI systems: agentic platforms, retrieval infrastructure, and the eval/observability layers that make them trustworthy.
