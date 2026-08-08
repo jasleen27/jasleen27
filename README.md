@@ -36,11 +36,6 @@ My first project at work had zero spec — just "go figure out where AI can help
 
 ---
 
-## Selected Production Work
-
-- **JADE AI** — multi-tenant LangGraph platform, 1,100+ users across 7 countries, 24hr→2min response time
-- **Text-to-SQL Agent** — 92% accuracy over a 200-table Oracle DB, self-correcting via retry loops
-- **Open-source MCP server** — published to the Anthropic ecosystem, adopted 250+ times by external developers
 
 ## Open Source
 
@@ -52,3 +47,7 @@ My first project at work had zero spec — just "go figure out where AI can help
 ---
 
 📫 **Let's talk**: [LinkedIn](https://www.linkedin.com/in/jasleen-singh27) · jassay2711@gmail.com · Pune, India
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jasleen27/jasleen27/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
